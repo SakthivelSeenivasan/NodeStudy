@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-complete-study",
+  "version": "1.0.0",
+  "description": "NodeJs study from Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakthivelSeenivasan/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakthivelSeenivasan/NodeJs/issues"
+  },
+  "homepage": "https://github.com/SakthivelSeenivasan/NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
